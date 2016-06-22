@@ -16,4 +16,6 @@ $ npm install
 
 ```
 $ npm run
+
+# open your browser to http://localhost:8080 to view
 ```
