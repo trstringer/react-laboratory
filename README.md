@@ -16,6 +16,6 @@ $ npm install
 
 ```
 $ npm run
-
-# open your browser to http://localhost:8080 to view
 ```
+
+Open your browser to http://localhost:8080 to view.  Modify your React code in your editor, save your changes, and watch those changes automatically reflect in the browser! *(the power of webpack-dev-server)*
